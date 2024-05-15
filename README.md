@@ -21,6 +21,6 @@ The folder [simple-samples](data/simple-samples) and [realistic-samples](data/re
 # Code
 The folder contains the Matlab implementations of the numerical experiments. The codes are split into the following two folders:
 
-* "simple-portfolio" contains codes for numerical experiments on the simple portfolio optimization problem
+* "[simple-portfolio](code/simple-portfolio)" contains codes for numerical experiments on the simple portfolio optimization problem
   
-* "realistic-portfolio" contains codes for numerical experiments on the realistic portfolio optimization problem.
+* "[realistic-portfolio](code/realistic-portfolio)" contains codes for numerical experiments on the realistic portfolio optimization problem.
