@@ -28,7 +28,7 @@ Below is the BibTex for citing this snapshot of the respoitory.
   url =           {https://github.com/INFORMSJoC/2022.0375},
   note =          {Available for download at https://github.com/INFORMSJoC/2022.0375},
 }  
-
+```
 
 
 
