@@ -38,9 +38,9 @@ Below is the BibTex for citing this snapshot of the respoitory.
 The goal of this software is to demonstrate the effectiveness of the scenario reduction method, as proposed in the paper, comparing to other reduction methods on both a simple portfolio optimization problem and a realistic one.
 
 # Data 
-In the folder [data](data), [stock_index1](data/stock_index1.xlsx) represents the weekly price of nine stock indices from different countries. The horizontal heading of the table displays the stock index names. 
+In the folder [data](data), [stock_index1](data/stock_index1.xlsx) represents the weekly price of nine stock indices from different countries, downloaded from https://finance.yahoo.com/. The horizontal heading of the table displays the stock index names. 
 
-[stockprice](data/stockprice.xlsx) represents the weekly price of fifty stocks selected randomly from the US S&P 500 index. The horizontal heading of the table displays the symbol of each stock in the website https://finance.yahoo.com/.
+[stockprice](data/stockprice.xlsx) represents the weekly price of fifty stocks selected randomly from the US S&P 500 index, downloaded from https://finance.yahoo.com/. The horizontal heading of the table displays the symbol of each stock in the website https://finance.yahoo.com/.
 
 The folder [simple-samples](data/simple-samples) and [realistic-samples](data/realistic-samples) contain the 20 original scenario sets generated based on the [stock_index1](data/stock_index1.xlsx) and [stockprice](data/stockprice.xlsx) respectively.
 
