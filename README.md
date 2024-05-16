@@ -7,6 +7,33 @@ This repository contains supporting material for the paper An efficient scenario
 
 The software and data in this repository are a snapshot of the software and data that were used in the research reported in the paper.
 
+
+## Cite
+
+To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
+
+https://doi.org/10.1287/ijoc.2022.0375
+
+https://doi.org/10.1287/ijoc.2022.0375.cd
+
+Below is the BibTex for citing this snapshot of the respoitory.
+
+```
+@misc{CacheTest,
+  author =        {Xiaolei He and Weiguo Zhang},
+  publisher =     {INFORMS Journal on Computing},
+  title =         {{An efficient scenario reduction method for problems with higher moment coherent risk measures}},
+  year =          {2024},
+  doi =           {10.1287/ijoc.2022.0375.cd},
+  url =           {https://github.com/INFORMSJoC/2022.0375},
+  note =          {Available for download at https://github.com/INFORMSJoC/2022.0375},
+}  
+
+
+
+
+
+
 # Description
 The goal of this software is to demonstrate the effectiveness of the scenario reduction method, as proposed in the paper, comparing to other reduction methods on both a simple portfolio optimization problem and a realistic one.
 
