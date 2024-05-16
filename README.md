@@ -5,7 +5,7 @@ This archive is distributed in association with the [INFORMS Journal on Computin
 
 This repository contains supporting material for the paper An efficient scenario reduction method for problems with higher moment coherent risk measures by Xiaolei He and Weiguo Zhang.
 
-The software and data in this repository are a snapshot of the software and data that were used in the research reported on in the paper.
+The software and data in this repository are a snapshot of the software and data that were used in the research reported in the paper.
 
 # Description
 The goal of this software is to demonstrate the effectiveness of the scenario reduction method, as proposed in the paper, comparing to other reduction methods on both a simple portfolio optimization problem and a realistic one.
