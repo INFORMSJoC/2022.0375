@@ -25,7 +25,7 @@ The folder contains the Matlab implementations of the numerical experiments. The
   
 * "[realistic-portfolio](code/realistic-portfolio)" contains codes for numerical experiments on the realistic portfolio optimization problem.
 
-* The code file [rcode.R] in folders [simple-portfolio](code/simple-portfolio) and [realistic-portfolio](code/realistic-portfolio) is to generate the original scenario set using the build-in functions in "rmgarch" package in R software. 
+The code file rcode.R in folders [simple-portfolio](code/simple-portfolio) and [realistic-portfolio](code/realistic-portfolio) is to generate the original scenario set using the build-in functions in "rmgarch" package in R software. 
 
 # Results
 The results are presented in the numerical experiments section of the paper. 
